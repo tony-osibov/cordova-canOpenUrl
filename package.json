@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "wymsee"
+  },
+  "bugs": {
+    "url": "https://github.com/tony-osibov/cordova-canOpenUrl/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-can-open-url",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova / PhoneGap Plugin to work arround Apple's iOS9 requirement that URL Schemes be declared and submitted to Apple (via Info.plist file).",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/tony-osibov/cordova-canOpenUrl#readme",
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "queries",
+    "url",
+    "schemes",
+    "lsapplicationqueriesschemes",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-can-open-url",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-osibov/cordova-canOpenUrl.git"
+  },
+  "version": "0.0.1"
+}
